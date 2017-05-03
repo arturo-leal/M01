@@ -4,7 +4,6 @@
    **Botón power on roto:**  
     Prems el botó i l'ordinador no s'encen, hem d'agafar un tester i comprovar que la font dona corrent,  
     si dona corrent, comprovem que els pins de la placa donen corrent i si aquests la donen.  
-    
     **Botón power on se queda clavado en ON:**  
     **Fuente rota del todo:**  
     **Fuente medio rota:**  
