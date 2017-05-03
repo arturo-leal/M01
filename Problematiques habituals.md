@@ -1,15 +1,14 @@
 # Problemàtiques habituals #
 **Botón power on roto:**     
-  Pulsas el botón y el ordenador no se enciende, coges un tester y compruebas que a la fuente de alimentación , comprobamos que da tensión , así que comprabamos que la placa funciona correctamente , una vez comprobado eso , checkeamos los pins y si están bien , es el botón de encendido.  
+  Pulsamos el botón y el ordenador no se enciende, hemos de coger un tester y comprobar que a la fuente de alimentación da tensión , asi comprabamos que la placa funciona correctamente , una vez comprobado eso , checkeamos los pins y si están bien , es el botón de encendido.  
 **Botón power on se queda clavado en ON:**    
-  Pulsas el botón y te das cuenta que a los 5 segundos se apaga el ordenador , compruebas la fuente con un tester , la placa que de bien los voltajes, y cuando checkeas los pins ves que llega la señal de encendido todo el rato.  
+  Pulsamos el botón y vemos que a los 5 segundos se apaga el ordenador , comprobamos la fuente con un tester , la placa que de bien los voltajes, y vemos que a los los pins llega la señal de encendido todo el rato.  
 **Fuente rota del todo:**  
-  Encendemos el ordenador y comprabamos que no funciona correctamente , comprobamos que llegue la tensión por el cable de     alimentación a fuente, con un tester , una vez comprobado , probamos a conectar el cable y medir la tensión en un conector SATA,  compruebas que no da  las tensiones y que funciona mal.  
+  Encendemos el ordenador y comprabamos que no funciona correctamente , comprobamos que llegue la tensión por el cable de     alimentación a fuente, con un tester , una vez comprobado , probamos a conectar el cable y medir la tensión en un conector SATA,se mira que no da  las tensiones y que funciona mal.  
 **Fuente medio rota:**  
-  Encendemos el ordenador y comprabamos que no funciona correctamente , comprobamos que llegue la tensión por el cable de     alimentación a fuente, con un tester , una vez comprobado , probamos a conectar el cable y medir la tensión en un conector SATA,  compruebas que no da bien  las tensiones y que no funciona bien.  
+  Encendemos el ordenador y comprabamos que no funciona correctamente , comprobamos que llegue la tensión por el cable de     alimentación a fuente, con un tester , una vez comprobado , probamos a conectar el cable y medir la tensión en un conector SATA,  comprobamos que no da bien  las tensiones y que no funciona bien.  
 **RAM mal puesta:**  
-  Iniciamos el ordenador con normalidad y en la BIOS sale un mensaje que no hay RAM conectada al sistema. Apagamos el ordenador, y 
-  al abrir la caja vemos que esta en su sitio, la sacamos y la volvemos a introducir. Encendemos el sistema otra vez y no vuelve a salir el mensaje.  
+  Iniciamos el ordenador con normalidad y en la BIOS sale un mensaje que no hay RAM conectada al sistema. Apagamos el ordenador, y al abrir la caja vemos que esta en su sitio, la sacamos y la volvemos a introducir. Encendemos el sistema otra vez y no vuelve a salir el mensaje.  
 **RAM rota:**  
   Iniciamos el ordenador con normalidad y en la BIOS sale un mensaje que no hay RAM conectada al sistema. Apagamos el ordenador, y al abrir la caja vemos que esta en su sitio, la sacamos y la volvemos a introducir. Encendemos el sistema otra vez y  vuelve a salir el mensaje por pantalla de la BIOS que no hay RAM en el sistema.  
 **RAM medio rota: (unos KB mal):**  
