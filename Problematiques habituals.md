@@ -20,20 +20,21 @@
   Iniciamos el ordenador y vemos que no da señal de vídeo, comprobamos el cable y la pantalla , abrimos la placa y sacamos y volvemos a introducir la Gráfica , cuando la sacamos nos damos cuenta de que está suelta.  
 **CPU rota/ no hay CPU/chipset roto:**  
   Iniciamos el ordenador y vemos que no inicia la BIOS , comprobamos que no es problema de fuente de alimentación ni placa al comprobar voltajes , al comprobar la CPU vemos que no hay o que no funciona correctamente.  
-**Placa rota**  
+**Placa rota:**  
   Iniciamos el ordenador y no inicia correctamente , comprobamos las tensiones de la fuente de alimentación y vemos que están bien, comprobamos la tensión en placa y no da tensión.  
-**Placa medio rota**  
-  Iniciamos el ordenador y no inicia correctamente , comprobamos las tensiones de la fuente de alimentación y vemos que están bien, comprobamos la tensión en placa y no da las tensiones correctamente.
-**Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).**  
+**Placa medio rota:**  
+  Iniciamos el ordenador y no inicia correctamente , comprobamos las tensiones de la fuente de alimentación y vemos que están bien, comprobamos la tensión en placa y no da las tensiones correctamente.  
+**Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard):**  
   Iniciamos el ordenador y el teclado no se ilumina ni funciona cuando tecleamos , comprobamos que el cable está correctamente enchufado a placa, y cambiarlo de USBs, si sigue sin funcionar el teclado funciona mal. Normalmente la BIOS manda un mensaje de que el teclado no está conectado/no lo detecta.  
-**Falta ratón: No se queja.**  
+**Falta ratón: No se queja:**  
   Inicias el ordenador y en la BIOS te avisa de que no hay mouse conectado , o el ratón no se ilumina. Comprobamos el cable y vemos que no hay ratón.   
-**Falla CD/DVD: No se queja.**  
+**Falla CD/DVD: No se queja:**  
   Cuando insertamos un DVD en la disquetera no lo lee o no funciona. Comprobamos que el SATA y la alimentación este bien conectado a la disquetera. Si no falla ningún cable y está todo bien conectado. Falla la disquetera.  
-**Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND.**  
-**BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS.**  
-**Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error.**  
-**Pantalla rota/cable roto: Arranca con normalidad.**  
-**USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.**  
-**USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).**  
+**Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND:**  
+**BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS:**  
+**Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error:**  
+**Pantalla rota/cable roto: Arranca con normalidad:**  
+**USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive:**  
+**USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje):**  
 **Pila de la BIOS esgotada**   
+la hora que nos dice el sistema operativo una vez iniciamos sesion esta incorrecta a causa de la pila de la BIOS
