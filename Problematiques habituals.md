@@ -25,7 +25,7 @@
 **Placa medio rota**  
   Iniciamos el ordenador y no inicia correctamente , comprobamos las tensiones de la fuente de alimentación y vemos que están bien, comprobamos la tensión en placa y no da las tensiones correctamente.
 **Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).**
-  Iniciamos el ordenador y el teclado no se ilumina ni funciona cuando tecleamos , comprobamos que el cable está correctamente enchufado a placa, y cambiarlo de USBs, si sigue sin funcionar el teclado funciona mal. Normalmente la BIOS manda un mensaje de que el teclado no está conectado/no lo detecta
+  Iniciamos el ordenador y el teclado no se ilumina ni funciona cuando tecleamos , comprobamos que el cable está correctamente enchufado a placa, y cambiarlo de USBs, si sigue sin funcionar el teclado funciona mal. Normalmente la BIOS manda un mensaje de que el teclado no está conectado/no lo detecta.  
 **Falta ratón: No se queja.**  
   Inicias el ordenador y en la BIOS te avisa de que no hay mouse conectado , o el ratón no se ilumina. Comprobamos el cable y vemos que no hay ratón.   
 **Falla CD/DVD: No se queja.**  
