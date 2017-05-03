@@ -37,4 +37,4 @@
 **USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive:**  
 **USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje):**  
 **Pila de la BIOS esgotada**   
-la hora que nos dice el sistema operativo una vez iniciamos sesion esta incorrecta a causa de la pila de la BIOS
+La hora que nos dice el sistema operativo una vez iniciamos sesion esta incorrecta a causa de la pila de la BIOS
