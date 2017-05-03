@@ -1,5 +1,5 @@
 # Problematiques habituals # 
-Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:
+**Descriu com arribes a aquestes conclusions (totes les possibilitats) en analitzar el comportament d'un ordinador:**
 
    **Botón power on roto:**  
     Prems el botó i l'ordinador no s'encen, hem d'agafar un tester i comprovar que la font dona corrent,  
