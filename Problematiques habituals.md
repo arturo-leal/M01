@@ -21,7 +21,7 @@
 **CPU rota/ no hay CPU/chipset roto:**  
   Iniciamos el ordenador y vemos que no inicia la BIOS , comprobamos que no es problema de fuente de alimentación ni placa al comprobar voltajes , al comprobar la CPU vemos que no hay o que no funciona correctamente.  
 **Placa rota**  
-  Iniciamos el ordenador y no inicia correctamente , comprobamos las tensiones de la fuente de alimentación y vemos que están bien, comprobamos la tensión en placa y no da tensión.
+  Iniciamos el ordenador y no inicia correctamente , comprobamos las tensiones de la fuente de alimentación y vemos que están bien, comprobamos la tensión en placa y no da tensión.  
 **Placa medio rota**  
   Iniciamos el ordenador y no inicia correctamente , comprobamos las tensiones de la fuente de alimentación y vemos que están bien, comprobamos la tensión en placa y no da las tensiones correctamente.
 **Teclado roto: Depende de la configuración de la BIOS (halt on all errors:All but keyboard).**
