@@ -29,11 +29,17 @@
   Inicias el ordenador y en la BIOS te avisa de que no hay mouse conectado , o el ratón no se ilumina. Comprobamos el cable y vemos que no hay ratón.   
 **Falla CD/DVD: No se queja:**  
   Cuando insertamos un DVD en la disquetera no lo lee o no funciona. Comprobamos que el SATA y la alimentación este bien conectado a la disquetera. Si no falla ningún cable y está todo bien conectado. Falla la disquetera.  
-**Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND:**  
-**BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS:**  
-**Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error:**  
-**Pantalla rota/cable roto: Arranca con normalidad:**  
-**USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive:**  
-**USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje):**  
+**Falla CD/DVD: No se queja.**  
+  Cuando insertamos un DVD en la disquetera no lo lee o no funciona. Comprobamos que el SATA y la alimentación este bien conectado a la disquetera. Si no falla ningún cable y está todo bien conectado. Falla la disquetera.  
+**Falta Disco Duro/Disco sin formatear: Hará pitido POST OK. Mensaje de SYSTEM NOT FOUND.**  
+  Iniciamos el sistema y cuando vemos que no arranca y leemos System not found. Comprobamos el disco duro y vemos que no está o no está conectado correctamente.  
+**BIOS mal flasheada: No arranca. No hay problema en el caso DUAL BIOS.**  
+  Iniciamos el ordenador y no arranca la BIOS. 
+**Disco duro con error SMART: Error POST. Hard drive SMART error. Permite omitir el error.**  
+**Pantalla rota/cable roto: Arranca con normalidad.**  
+  Encendemos el ordenador, suena el pitido de POST y el teclado y el ratón se iluminan , pero no vemos nada por pantalla. Comprobamos el cable de vídeo cambiandolo por otro , y cambiando la pantalla por otra , si funcionan es porque estaban mal los anteriores.  
+**USB del frontal cruzado: Puede quemar la placa. Puede quemar los pendrive.**  
+**USB del frontal conectado mal en placa (otro conector que no es USB): Quema los pendrive (sobrevoltaje).**  
+**Pila de la BIOS esgotada** 
 **Pila de la BIOS esgotada**   
 La hora que nos dice el sistema operativo una vez iniciamos sesion esta incorrecta a causa de la pila de la BIOS
